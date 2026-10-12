@@ -1,0 +1,6 @@
+{
+  "name": "SRATS - Smart Recruitment and Applicant Tracking System",
+  "description": "Enterprise-grade Smart Recruitment and Applicant Tracking System with role-based access, full hiring pipeline, structured resume analysis, and evidence-grounded AI intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
