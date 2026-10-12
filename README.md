@@ -11,7 +11,7 @@ SRATS is built around one core principle: **AI assists people; verified applicat
 ---
 
 <p align="center">
-  <img src="docs/images/srats-hero-preview.jpg" alt="SRATS Hero Landing Page" width="100%" />
+  <img src="docs/images/srats-hero-preview.png" alt="SRATS Hero Landing Page" width="100%" />
 </p>
 
 ---
@@ -127,7 +127,7 @@ SRATS provides five distinct workspace experiences backed by shared authenticati
 ## Role-Based Workspaces
 
 <p align="center">
-  <img src="docs/images/srats-workspaces-preview.jpg" alt="SRATS Workspaces" width="100%" />
+  <img src="docs/images/srats-workspaces-preview.png" alt="SRATS Workspaces" width="100%" />
 </p>
 
 | Role | Responsibilities |
